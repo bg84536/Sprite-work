@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<keyboard version="1">
+    <commands>
+        <key command="SelectTile" shortcut="Ctrl+." />
+        <key command="SelectTile" shortcut="Shift+Backspace">
+            <param name="mode" value="add" />
+        </key>
+    </commands>
+    <tools />
+    <quicktools />
+    <actions />
+</keyboard>
